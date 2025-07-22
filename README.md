@@ -55,13 +55,26 @@ Sou um entusiasta da tecnologia com experiência prática em manutenção de com
 
 ## 📫 Como me encontrar
 
-- 📱 WhatsApp: (21) 99458-1019
-- 📧 Email: miguelpecanha2020@gmail.com
-- 🧑‍💼 LinkedIn: [Miguel Augusto](https://www.linkedin.com/in/miguel-augusto-51b563334)
-- 🧑‍🔧 Instagram: [@miguelapc.1](https://www.instagram.com/miguelapc.1)
+<p align="center">
+  <a href="https://wa.me/5521994581019" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="mailto:miguelpecanha2020@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/miguel-augusto-51b563334" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/miguelapc.1" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://discord.com/users/Mik3.om" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  Entre linhas de código e café quente, vou mostrar quem é o melhor.
+  Entre linhas de código e café quente ☕, vou mostrar quem é o melhor😎.
 </p>
