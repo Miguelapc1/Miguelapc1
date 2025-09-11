@@ -1,24 +1,20 @@
 <h1 align="center">👋 Olá, eu sou o Miguel Augusto</h1>
 
 <p align="center">
-  💻 Técnico em informática | 🧠 Estudante de tecnologia | 🚀 Buscando evolução constante
+  💻 Programador Junior | 🧠 Estudante de Gestão de Tecnologia e ADS | 🚀 Buscando evolução constante
 </p>
 
 ---
 
 ## 🧑‍🔧 Sobre mim
 
-Sou um entusiasta da tecnologia com experiência prática em manutenção de computadores, suporte técnico, redes e desenvolvimento web. Gosto de resolver problemas, automatizar tarefas e entender como as coisas funcionam por trás dos bastidores.
+Sou um entusiasta da tecnologia e atualmente trabalho como **Analista de Suporte na Zoox Smart Data**, atuando na resolução de problemas técnicos, otimização de processos e apoio a usuários.  
+
+Tenho experiência prática em **manutenção de computadores, redes, suporte técnico e desenvolvimento web**, além de interesse crescente em **programação e automação**.  
 
 ---
 
 ## 🔧 O que eu faço
-
-### 💻 Manutenção e Suporte
-- Formatação com backup e instalação de drivers
-- Limpeza física (coolers, pasta térmica) e otimização do sistema
-- Instalação e configuração de redes, impressoras e dispositivos
-- Troca de HD por SSD e upgrades de desempenho
 
 ### 🧑‍💻 Programação & Web
 - Desenvolvimento de sites com HTML, CSS e JavaScript
@@ -32,7 +28,12 @@ Sou um entusiasta da tecnologia com experiência prática em manutenção de com
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos em Destaque  
+- [**Linguagem de Programação em Português (TCC)**](https://github.com/Miguelapc1) *(em andamento)* – Projeto acadêmico para facilitar o aprendizado de lógica de programação.  
+
+---
+
+##  📊 Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Miguelapc1&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="32%" />
