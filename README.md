@@ -10,21 +10,20 @@
 
 Sou um entusiasta da tecnologia e atualmente trabalho como **Analista de Suporte na Zoox Smart Data**, atuando na resolução de problemas técnicos, otimização de processos e apoio a usuários.  
 
-Tenho experiência prática em **manutenção de computadores, redes, suporte técnico e desenvolvimento web**, além de interesse crescente em **programação e automação**.  
+Tenho experiência prática em **manutenção de computadores, redes, suporte técnico e desenvolvimento**, além de interesse crescente em **programação e automação**.  
 
 ---
 
-## 🔧 O que eu faço
+## 🚀 Linguagens e Tecnologias
 
-### 🧑‍💻 Programação & Web
-- Desenvolvimento de sites com HTML, CSS e JavaScript
-- Automatizações e scripts em Python
-- Conhecimento básico de banco de dados (MySQL, SQLite)
+<div style="display: flex; gap: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+</div>
 
-### 🔐 Segurança e Boas Práticas
-- Criação de senhas seguras e criptografia de dados
-- Noções de segurança digital e prevenção contra golpes e vírus
-- Backup local e na nuvem
 
 ---
 
@@ -40,18 +39,6 @@ Tenho experiência prática em **manutenção de computadores, redes, suporte t�
   <img src="https://streak-stats.demolab.com?user=Miguelapc1&theme=tokyonight" alt="GitHub Streak" width="32%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelapc1&layout=compact&theme=tokyonight" alt="Top Langs" width="32%" />
 </p>
-
----
-
-## 🚀 Linguagens e Tecnologias
-
-<div style="display: flex; gap: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
-</div>
 
 ---
 
