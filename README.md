@@ -43,14 +43,15 @@ Tenho experiência prática em **manutenção de computadores, redes, suporte t�
 
 ---
 
-## 📚 Conhecimentos
+## 🚀 Linguagens e Tecnologias
 
-- ⚙️ Windows, BIOS, drivers, particionamento
-- 🐍 Python (iniciante/intermediário)
-- 🌐 HTML, CSS, JavaScript
-- 🧩 Git & GitHub
-- 🛠️ Linux (básico), redes domésticas
-- 💬 Atendimento e suporte técnico
+<div style="display: flex; gap: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+</div>
 
 ---
 
