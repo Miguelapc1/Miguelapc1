@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Miguel Augusto</h1>
 
 <p align="center">
-  💻 Programador Junior | 🧠 Estudante de Gestão de Tecnologia e ADS | 🚀 Buscando evolução constante
+  💻 Programador Pleno | 🧠 Estudante de Gestão de Tecnologia e ADS | 🚀 Buscando evolução constante
 </p>
 
 ---
@@ -10,7 +10,7 @@
 
 Sou um entusiasta da tecnologia e atualmente trabalho como **Analista de Suporte na Zoox Smart Data**, atuando na resolução de problemas técnicos, otimização de processos e apoio a usuários.  
 
-Tenho experiência prática em **manutenção de computadores, redes, suporte técnico e desenvolvimento**, além de interesse crescente em **programação e automação**.  
+Tenho experiência prática em **manutenção de computadores, redes, suporte técnico e desenvolvimento**, além de interesse crescente em **DevOps e Sistemas de Automação com IA**.  
 
 ---
 
