@@ -1,7 +1,19 @@
-<h1 align="center">👋 Olá, eu sou o Miguel Augusto</h1>
+<section class="banner">
+  <div class="image" align="center">
+    <a href="#"> <img src="https://github.com/Miguelapc1/TCC-de-ADS/blob/main/logo/ChatGPT%20Image%2024%20de%20mar.%20de%202026%2C%2021_16_11.png" 
+           width="1050" 
+           height="600" 
+           alt="Aprende.py logo">
+    </a>
+  </div>
+</section>
+
+---
+
+<h1 align="center">Hey, my name is Miguel.</h1>
 
 <p align="center">
-  💻 Programador Pleno | 🧠 Estudante de Gestão de Tecnologia e ADS | 🚀 Buscando evolução constante
+  💻 Programador Pleno | 🧠 Estudante de Gestão de Tecnologia e ADS | 🚀 Striving to be the best
 </p>
 
 ---
@@ -11,19 +23,6 @@
 Sou um entusiasta da tecnologia e atualmente trabalho como **Analista de Suporte na Zoox Smart Data**, atuando na resolução de problemas técnicos, otimização de processos e apoio a usuários.  
 
 Tenho experiência prática em **manutenção de computadores, redes, suporte técnico e desenvolvimento**, além de interesse crescente em **DevOps e Sistemas de Automação com IA**.  
-
----
-
-## 🚀 Linguagens e Tecnologias
-
-<div style="display: flex; gap: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
-</div>
-
 
 ---
 
