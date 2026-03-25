@@ -42,15 +42,15 @@ I have hands-on experience in **computer maintenance, networking, technical supp
 ### 📫 How to Reach Me
 
 <p align="center">
-  <a href="https://www.twitch.tv/seu_usuario" target="_blank">
+  <a href="https://www.twitch.tv/avastfak" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-808080?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
   </a>
-  <a href="https://www.threads.net/@seu_usuario" target="_blank">
+  <a href="https://www.threads.com/@miguelapc.1" target="_blank">
     <img src="https://img.shields.io/badge/Threads-808080?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
   </a>
-  <a href="https://linkedin.com/in/miguel-augusto-51b563334" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-808080?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<a href="https://linkedin.com/in/miguel-augusto-51b563334" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-808080?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
   <a href="https://instagram.com/miguelapc.1" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-808080?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
