@@ -29,13 +29,12 @@ I have hands-on experience in **computer maintenance, networking, technical supp
 
 ---
 
-###  📊 GitHub Statistics
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miguelapc1&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="50%" />
-  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelapc1&layout=compact&theme=tokyonight" alt="Top Langs" width="50%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Miguelapc1&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Miguelapc1&layout=compact&theme=tokyonight" alt="Top Langs" width="40%" />
+</p>
 
 ---
 
